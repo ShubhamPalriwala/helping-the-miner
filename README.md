@@ -3,7 +3,8 @@
 This is my attempt at the task given to me for application of Summer of Bitcoin
 
 I managed to get the miner's gas fee to be **5,704,530**.<br/>
-And the number of transactions that we included were _3,999,904_.
+And the total weight that we included was _3,999,904_.<br/>
+The total number of transactions that the miner has to include in the block was _3178_.
 
 ### Tu run it locally:
 
